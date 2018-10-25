@@ -1,6 +1,6 @@
 # collections模块
 
-###tuple的简单介绍
+tuple的简单介绍
 
 tuple是元组，不可变的（immutable）。可迭代的（iterable）。
 
